@@ -1,20 +1,18 @@
 ﻿from xml.dom.minidom import parse
-
-debug=True
+from nltk.corpus import wordnet
 
 #parse ankur-abhidhan.xml
 fileName="english_bangla_datasets/ankur-abhidhan.xml"
-dom=parse(fileName)
-#define rows as element under row
-rows=dom.getElementsByTagName("row")
-#creates an array
+
+debugMode=True
+
+bangla_dict={}
 eng_bangla_dictionary={}
 bangla_eng_dictionary={}
 
 '''
 Sample Entry
-
-	<row>
+        <row>
 		<field name="id">80142</field>
 		<field name="en_word">cooch.behar</field>
 		<field name="pos_tag">NP</field>
@@ -26,6 +24,11 @@ Sample Entry
 		<field name="status">UNEDITED:TIME=1280170484:NEW_ENG_WORD</field>
 	</row>
 '''
+
+dom=parse(fileName)
+print "Parsed the XML file"
+
+rows=dom.getElementsByTagName("row")
 
 #Parse the xml into the dictionary eng_bangla_dictionary structure, which will be used later.
 for row in rows:
@@ -40,16 +43,13 @@ for row in rows:
 		for f in fields:
 			if f.getAttribute("name")=="en_word":
 				en_word=f.childNodes[0].toxml()
-				if debug:
-					print en_word
+
 			elif f.getAttribute("name")=="pos_tag":
 				pos_tag=f.childNodes[0].toxml()
-				if debug:
-					print pos_tag
+
 			elif f.getAttribute("name")=="bn_word":
 				bn_word=f.childNodes[0].toxml()
-				if debug:
-					print bn_word
+
 		#specifies key and value for dictionary
 		key=en_word
 		value=(pos_tag,bn_word)
@@ -65,32 +65,33 @@ for row in rows:
 			bangla_eng_dictionary[key]=[]
 		bangla_eng_dictionary[key]=value
 
-if debug:
-	fileName="dictionaries/eng_to_bangla.txt"
-	fwrite=open(fileName,'w')
-	lines=[]
-	#Write the contents in the file
-	for key in eng_bangla_dictionary.keys():
-		value=eng_bangla_dictionary[key]
-		lines.append(str(key)+";"+str(value)+"\n")
+print "Parsed the Bilingual dictionary into two dictionary structures"
 
-	fwrite.writelines(lines)
-	fwrite.close()
+#For all Bangla words in bangla to english dictionary
+for i,bn_word in enumerate(bangla_eng_dictionary.keys()):
+        bn_syns=[]
+        
+        #Find corresponding English Word
+        (pos_tag,en_word)=bangla_eng_dictionary[bn_word]
 
-#print eng_bangla_dictionary
-#print bangla_eng_dictionary
+        #Find synyonyms in English
+        syns=[l.name for s in wordnet.synsets(en_word) for l in s.lemmas]
+        #Wordnet.synset(en_word+".n.01").lemma_names
 
-'''
-nltk.download()
-- install wordnet
+        #Find Bangla Equivalent of the synonyms from the dictionary
+        for s in syns:
+                try:
+                        bword=eng_bangla_dictionary[s]
+                        bn_syns.append(bword)
+                except:
+                        pass
 
-.similar (google, nltk)
+        #key=bn_word
+        #value=bn_syns
 
-synsets
+        bangla_dict[bn_word]=bn_syns
+        #if i>20:
+        #        break
 
-go to wordnet wali directory
--> start writing code to prepare an identical bangla wordnet
-
-tweak, nltk to be able to use the new bangla wordnet
-'''
-	
+print "Prepared the dictionary."
+#print bangla_dict

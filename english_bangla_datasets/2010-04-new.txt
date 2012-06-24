@@ -1,0 +1,862 @@
+withal:RB	আরও
+withal:RB	একসঙ্গে
+voucher:NN	রসিদ
+voucher:NN	প্রমাণপত্র
+voucher:NN	প্রমাণক
+voucher:NN	ভাউচার
+wanton:JJ	খেয়ালী
+wanton:JJ	রঙ্গপ্রিয়
+wanton:JJ	অসংযত
+wanton:JJ	উচ্ছুঙ্খল
+wanton:JJ	অবাধ্য
+wanton:JJ	অকারণ
+waive:VV	অধিকার পরিত্যাগ করা
+vitality:NN	জীবনী শক্তি
+visa:NN	বিদেশে প্রবেশের অনুমতিপত্র
+waddle:NN	হেলেদুলে চলা
+youth:NN	তারুণ্য
+youth:NN	যৌবন
+x:NN	ইংরেজী বর্ণমালার চতুর্বিংশ বর্ণ
+virtually:RB	ফলতঃ
+virtually:RB	কার্যত
+wager:NN	বাজি
+wager:NN	পণ
+viscera:NNS	ভিশেরা
+viscera:NNS	অন্তর্যন্ত্র
+walnut:NN	আখরোট
+walnut:NN	আখরোট গাছ বা আখরেট ফল
+virago:NN	কলহপ্রিয় স্ত্রীলোক
+virago:NN	উগ্রচন্ড রমণী
+wrangle:VV	ঝগড়া করা
+yard:NN	এক গজ
+weapon:NN	অস্ত্রশস্ত্র
+weapon:NN	বর্ম
+whisky:NN	হুইস্কি
+whisky:NN	উগ্র মদ্যবিশেষ
+zend:NP	ইরানের প্রাচীন ভাষাবিশেষ
+visible:JJ	দৃষ্টিগোচার
+visible:JJ	সুস্পষ্ট
+wheedle:NN	নরম কথায় প্রলোভিত করা
+wish:VVP	ইচ্ছা করা
+wish:VVP	অভিলাষ করা
+vocation:NN	বৃত্তি
+vocation:NN	ব্যবসায়
+wit:NN	বোধশক্তি
+wit:NN	বুদ্ধি
+wit:NN	রসজ্ঞ ব্যক্তি বা রসিক লোক
+who:WP	কে বা কারা
+who:WP	যে বা যারা
+zone:NN	মেখলা
+zone:NN	কটিবন্ধ
+wind:NN	বাতাস
+wind:NN	হওয়া
+wheat:NN	গম
+virgin:JJ	বিশুদ্ধ
+wrench:VV	প্রচন্ড মোচড়
+wrench:VV	নাট ঘুরাবার যন্ত্র
+wrench:VV	রেঞ্চ
+wrap:VV	গুটান
+wrap:VV	ভাঁজ করা
+wrap:VV	মোড়া
+wrap:VV	ঢাকা
+whey:NN	ছানার জল
+whey:NN	ঘোল
+wire-rope:JJ	ইস্পাতের তৈরি দড়ি
+wife:NN	পত্নী
+wont:JJ	অভ্যস্ত
+walk:VV	হেঁটে বেড়ানো
+walk:VV	হাঁটানো
+whelp:NN	কুকুরছানা
+whelp:NN	সিংহ প্রভৃতি পশুর শাবক
+whelp:NN	কুকুর শাবক
+wicket:NN	দু’দিকের উইকেটের মধ্যবর্তী ঘাসে-ঢাকা জমি
+wig:NN	পরচুলা
+youthful:JJ	তারুণবয়স্ক
+virginity:NN	কুমারী অবস্থা
+warrior:NN	মহান সৈনিক
+yew:NN	ফচিরসবুজ বৃক্ষবিশেষ
+wretch:NN	হতভাগ্য লোক
+wretch:NN	দুরাত্মা
+wail:VV	বিলাপ করা
+wail:VV	হা-হুতাশ করা
+welcome:JJ	স্বাগতম
+welcome:JJ	সাদরে অভ্যর্থনা করা
+whore:NN	বেশ্যা
+whore:NN	অসতী রমণী
+war-cry:JJ	রণধ্বনি
+waylay:VV	পথে ওত পাতিয়া থাকা
+wood:NN	কাষ্ঠ
+wood:NN	বন
+wax:NN	মোম
+wiry:JJ	তারনির্মিত
+wiry:JJ	তারের মত
+wiry:JJ	মাংসপেশী বহুল
+woodpecker:NN	কাঠঠোকরা পাখি
+yuletide:NN	বড়দিনের উৎসব
+visiting:VVG	দেখা-সাক্ষাৎ সম্বন্ধীয়
+wheel:NN	চক্র
+wheel:NN	গাড়ির চাকা
+wardrobe:NN	পোশাক
+wardrobe:NN	জামাকাপড় রাখার আলমারি
+wench:NN	বালিকা
+wench:NN	যুবতী (বিশেষতঃ পল্লী বালিকা বা দাসী)
+wary:JJ	সাবধানী
+window:NN	বাতায়ন
+violence:NN	তীব্রতা
+violence:NN	প্রচন্ডতা
+violence:NN	বলপ্রয়োগ
+vintner:NN	শুঁড়ী
+whip:VV	চাবুক দিয়ে আঘাত করা
+whip:VV	বেত্রাঘাত করা
+wound:NN	ঘা
+vineyard:NN	আঙ্গুরের ক্ষেত
+vineyard:NN	দ্রাক্ষাক্ষেত্র
+waiting-room:NN	বিশ্রামাগার
+waiting-room:NN	প্রতীক্ষালয়
+wild:JJ	বুনো
+wild:JJ	প্রচন্ড
+wild:JJ	উন্মত্ত
+vulture:NN	শকুন
+vulture:NN	গৃধ্র
+zany:JJ	ভাড়
+wiring:NN	ওয়ারিং
+wiring:NN	বৈদ্যুতিক প্রবাহ ইত্যাদির জন্য তার ব্যবস্থা
+visionary:JJ	কাল্পনিক
+visionary:JJ	কল্পনাপ্রবণ
+wain:NN	গাড়ি
+wain:NN	মালবাহী-শকট
+violinist:NN	বেহালা বাদক
+whole:JJ	সম্পূূর্ণ
+whole:JJ	অখন্ড
+whole:JJ	সমগ্র
+whole:JJ	অক্ষত
+whole:JJ	অটুট
+voltage:NN	ভোল্ট একক দ্বারা পরিমিত তড়িৎ প্রবাহ
+vomit:VVP	বমি
+vomit:VVP	বমন
+way-side:JJ	রাস্তার পার্শ্ব
+yoke:NN	জোয়াল
+yule:NN	বড়দিনের উৎসব
+whine:NN	ঘ্যানঘ্যান
+whine:NN	একঘেয়ে কান্না
+zebra:NN	জেবরা
+whom:WP	যাকে
+whom:WP	যাহাকে
+whom:WP	কাকে
+whom:WP	কাহাকে
+violation:NN	অমান্য
+wind-up:VV	পরিসমাপ্তি
+wince:VV	পিছিয়ে আসা
+wince:VV	ছটফট করা
+vowel:NN	স্বরধ্বনি
+whimper:NN	প্যান প্যান করা
+whimper:NN	ঘ্যানঘ্যানানি
+wreak:VV	প্রকাশ করা কাজে পরিনত করা
+yourself:PP	স্বয়ং
+yourself:PP	আপনাকে
+yourself:PP	তুমি
+yourself:PP	তুমিই
+yourself:PP	আপনি
+yourself:PP	আপনিই
+vitreous:JJ	কাচময়
+vitreous:JJ	কাচসম্বন্ধীয়
+vitreous:JJ	কাচের তৈরি
+visard:NN	মুখোমুখি
+visard:NN	বিপরীত
+visard:NN	সামনাসামনি
+war-horse:JJ	যুদ্ধাশ্ব
+war-horse:JJ	অত্যন্ত অভিজ্ঞ ব্যক্তি
+worn:JJ	শীর্ণ
+worn:JJ	জীর্ণ
+violet:NN	বেগুণী
+violet:NN	বেগুণী রঙের ছোট ফুলবিশেষ
+voice:NN	কন্ঠস্বর
+voice:NN	মতপ্রকাশ
+yield:VV	ত্যাগ করা
+vulnerable:JJ	ভেদ্য
+vulnerable:JJ	আহত বা ক্ষত করা যায় এমন
+wan:JJ	পান্ডুবর্ণ
+wan:JJ	ফেকাশে
+wan:JJ	রোগজীর্ণ
+wan:JJ	অবসন্ন
+volt:NN	ভোল্ট
+volt:NN	তড়িৎবিভব পরিমাপের একক
+weevil:NN	শক্ত খোলা যুক্ত ছোট গুবরে পোকা বিশেষ
+wrinkle:NN	কোঁচকানো চামড়া
+wrinkle:NN	বলিরেখা
+wearing:JJ	পরিধেয়
+wednesday:NN	বুধবার
+when:WRB	কখন
+when:WRB	সে থেকে
+wont:NN	অভ্যাস
+whose:WP$	কাহার
+whose:WP$	কাহাদের
+whose:WP$	যাহার
+whose:WP$	যাহাদের
+virtuous:JJ	ধার্মিক
+virtuous:JJ	ন্যায়পরায়ণ
+virtuous:JJ	সদগুনসম্পন্ন
+wed:VVN	বিয়ে করা
+vixen:VVN	স্ত্রী-শেয়াল
+vixen:VVN	শেয়ালী
+vocative:NN	সম্বোধন পদ
+with:IN	সঙ্গে
+with:IN	সাথে
+with:IN	সহিত
+watch:VV	নিরীক্ষণ করা
+watch:VV	লক্ষ্য রাখা
+watch:VV	পাহারা দেওয়া
+vote:NN	নির্বাচন
+voluminous:JJ	বৃহদায়তন
+voluminous:JJ	বহুখন্ডে গঠিত
+wring:VV	মোচড়ানো
+wring:VV	নিংড়ান
+wring:VV	নিস্পেষণ করা
+way-in:JJ	প্রবেশ পথ
+waul:VV	বিড়ালের মত ডাকা
+vine:NN	আঙ্গুর গাছ
+vine:NN	দ্রাক্ষালতা
+xebec:NN	তিন মাস্তুলের ছোট জাহাজবিশেষ
+wrest:VV	জোর মোচড় দিয়া টানা বা ভাঙ্গা
+wrest:VV	বিকৃত করা
+worth:JJ	মূল্য
+worth:JJ	যোগ্যতা
+worth:JJ	গুরুত্ব
+wanting:JJ	অভাবপূর্ণ
+wanting:JJ	ক্রটিপূর্ণ
+zeppelin:NN	পজেপলিন
+yak:NN	চমরী গাই
+yak:NN	তিব্বতীয় গরুবিশেষ
+way:NN	উপায়
+vortex:NN	জলের ঘূণি
+vortex:NN	আবর্ত
+vortex:NN	পাক
+wick:NN	পলতে
+voluptuary:JJ	ইন্দ্রিয়পরায়ণ ব্যক্তি
+voluptuary:JJ	‌বিলাসী ব্যক্তি
+wearisome:JJ	শ্রান্তিকর
+wearisome:JJ	বিরক্তিকর
+wallet:NN	মানিব্যাগ
+wallet:NN	টাকা ও কাগজপত্র রাখার পকেট ব্যাগ
+wilderness:NN	জনহীন
+wilderness:NN	প্রান্তর
+wilderness:NN	মরুভূমি
+withhold:VV	পেছনে টেনে রাখা
+withhold:VV	সংযত করা
+withhold:VV	আটকানো
+weird:JJ	ভারী
+weird:JJ	বিরক্তিকর
+weird:JJ	দুর্বহ
+weird:JJ	প্রয়োজনীয়
+weird:JJ	গুরুত্বপর্ণ
+witness-box:NN	কাঠগড়া
+warn:VV	সতর্ক করা
+wage:VV	শুরু করা
+wage:VV	(সমর বা প্রচার অভিযান) শুরু করা
+vulgarity:NN	অশ্লীল রীতিনীতি
+vulgarity:NN	অশিষ্ট
+vulgarity:NN	অশিষ্ট আচার ব্যবহার
+word:NN	কথা
+word:NN	সংবাদ
+word:NN	প্রতিশ্রুতি
+zest:NN	স্বাদজনক বা স্বদবর্ধক বস্তু
+wallop:VV	প্রহার করা
+wean:VV	মাই ছাড়ানো
+wean:VV	বদাভ্যাস ত্যাগ করানো
+wording:NN	বাক্যে কথন
+wording:NN	বাক্যে প্রকাশের ধারা বা প্রণালী
+worsted:JJ	পশমী সূতা
+windward:RB	বায়ুর দিকে
+within:IN	ভিতরে
+within:IN	সীমার মধ্যে
+westerner:NN	পশ্চিমা লোক
+westerner:NN	পাশ্চাত্ত্যদেশীয়
+wood-cutter:JJ	কাঠুরিয়া
+wood-cutter:JJ	যে কাঠ কাঠে
+wheelbarrow:NN	এক চাকার ঠেলাগাড়ি
+width:NN	বিস্তৃতি
+width:NN	ব্যাপকতা
+winsome:JJ	চিত্তাকর্ষক
+winsome:JJ	মনোহর
+wrist:NN	কজি
+wrist:NN	মণিবন্ধ
+whelm:VV	অভিভূত করা
+wayward:JJ	একগুয়ে
+woodwork:NN	কাঠের তৈরি জিনিস
+warp:NN	মোচড়ানো
+warp:NN	তাতের টানা সুতা
+wipe:VV	মোছা
+wipe:VV	মুছে পরিস্কার করা
+voile:NN	অতি সূক্ষ্ম সূতী
+voile:NN	পশমী বা রেশমী কাপড়
+willow:NN	উইলো
+willow:NN	বৃক্ষ-বিশেষ
+wink:VV	চোখ পিটপিট করা
+wink:VV	চোখ টিপে ইশারা বা সৃঙ্কেত করা
+whart:NN	ঘাট
+whart:NN	জোটি
+voyage:NN	সমুদ্রযাত্রা
+voyage:NN	জলপথে ভ্রমণ
+yearling:JJ	এক বছর হতে দুই বছর বয়সের জন্তু
+ware:NN	পণ্য
+ware:NN	মাটি বা চীনামাটির তৈরি পাত্র
+ware:NN	দ্রব্যাদি
+wool:NN	পশম
+world:NN	পৃথিবী
+world:NN	জগৎ
+world:NN	দুনিয়া
+waist:NN	কটি
+vivacity:NN	প্রাণময়তা
+vivacity:NN	উৎফুল্লতা
+well:NN	কুয়া
+well:NN	কূপ
+weather-proof:JJ	জলবায়ু প্রতিরোধী
+vituperate:VV	নিন্দা করা
+vituperate:VV	গালাগালি দেওয়া
+wasp:NN	বোলতা
+wasp:NN	ভিমরুল
+wherry:NN	ডিঙ্গি-নৌকা
+wherry:NN	পানসি
+vindictive:JJ	প্রতিহিংসাপরায়ণ
+wealth:NN	ধন
+west:NN	পশ্চিমদিক
+west:NN	পশ্চিমদিগস্থ
+wisdom:NN	জ্ঞান
+wisdom:NN	পান্ডিত্য
+wisdom:NN	বিচক্ষণতা
+wisdom:NN	প্রজ্ঞা
+worse:JJR	আরও খারাপ
+virtue:NN	ধর্ম
+virtue:NN	সদগুণ
+virtue:NN	নৈতিক উৎকর্ষ
+word-book:JJ	যে পুস্তকে শব্দের সংগ্রহ আছে
+wrong-doing:NN	অপরাধ
+walrus:NN	সিন্ধুঘোটক
+walrus:NN	সামুদ্রিক প্রাণী বিশেষ
+waiter:NN	খাদ্য পরিবেশক
+waiter:NN	প্রতীক্ষাকারী
+work:NN	কর্ম
+work:NN	শারীরিক বা মানসিক শ্রম
+work:NN	কৃতকর্ম
+work:NN	বৃত্তি
+wantonness:NN	কামুকতা
+wantonness:NN	বিলাস
+wantonness:NN	অমনযোগিতা
+washable:JJ	ধোওয়া যায় এমন
+zinnia:NN	ফুলের গাছবিশেষ
+worst:JJS	সবচেয়ে খারাপ
+worst:JJS	নিকৃষ্টতম
+yelp:NN	কুকুরের মত ডাকা
+yelp:NN	ঘেউঘেউ করা
+winter:NN	শীতঋতু
+witty:JJ	রসিক
+witty:JJ	বিচক্ষণ
+witty:JJ	বিজ্ঞ
+zionism:NN	প্যালেস্টাইনে ইহুদিদের পুনর্বাসনের আন্দোলন
+wither:VV	শুকিয়ে যাওয়া
+wither:VV	ম্নান হওয়া
+wreck:NN	বিণাশ
+wreck:NN	ধ্বংস
+wag:VV	ইতস্ততঃ নাড়ানো
+where:WRB	যেথায়
+worry:VV	উদ্ধিগ্ন হওয়া
+your:PP$	তোমার
+your:PP$	তোমাদের
+your:PP$	আপনার
+your:PP$	আপনাদের
+your:PP$	তোর
+your:PP$	তোদের
+visitation:NN	যাজকীয় পরিদর্শন
+visitation:NN	দৈবানুগ্রহ
+waken:NN	জাগা
+waken:NN	জাগানো
+wedge:NN	গোঁজ
+wedge:NN	খোঁটা
+wedge:NN	কীলক
+weed:NN	আগাছা
+willynilly:RB	বাধ্যতামূলকভাবে
+wrong:JJ	ভুল
+wrong:JJ	অন্যায়
+wrong:JJ	মিথ্যা
+wrong:JJ	ভ্রান্ত
+wrong:JJ	অশুদ্ধ
+wile:NN	ছল
+wittingly:RB	জেনেশুনে
+wittingly:RB	ইচ্ছাকৃতভাবে
+wily:JJ	ধূর্ত
+wily:JJ	শঠ
+yearly:JJ	বার্ষিক
+yearly:JJ	বাৎসরিক
+yearly:JJ	বর্ষস্থায়ী
+violate:VV	লঙ্ঘন করা
+wicker:NN	কঞ্চি
+wicker:NN	কঞ্চি নির্মিত
+viol:NN	বীণা
+viol:NN	বড় বেহালা বিশেষ
+vise:NN	ভিসা
+vise:NN	প্রবাসাজ্ঞা
+windmill:NN	বায়ুচালিত কল
+wise:JJ	বিজ্ঞ
+wise:JJ	জ্ঞানী
+wise:JJ	বিচক্ষণ
+yon:RB	ওই
+yon:RB	ওখানে
+yes:UH	হ্যাঁ
+yours:PP	আপনার
+yours:PP	আপনাদের
+yours:PP	তোমার
+yours:PP	তোমাদের
+yours:PP	তোর
+yours:PP	তোদের
+warlike:JJ	সামরিক
+warlike:JJ	রণলিপ্সু
+warlike:JJ	যুদ্ধার্থ প্রস্তুত
+zephyr:NN	মৃদুমন্দ বায়ু
+why:WRB	কি জন্য
+woe:NN	দুঃখ
+woe:NN	দুর্দশা
+warily:RB	সাবধানে
+yen:NN	জাপানের মুদ্রাবিশেষ
+wry:JJ	পাকানো
+wry:JJ	তেরছা
+wry:JJ	বিকৃত
+virgin:NN	অবিবাহিতা মেয়ে
+wash:VV	ধোওয়া
+wash:VV	ধৌত করা
+woodman:NN	কাঠুরিয়া
+woodman:NN	বনরক্ষক
+zigzag:NN	আঁকা বাঁকা রেখা
+whisper:VV	ফিসফিস করে কথা বলা
+whisper:VV	চুপি চুপি বলা
+wordy:JJ	শব্দবহুল মৌখিক
+wordy:JJ	শব্দময়
+weary:JJ	অবসন্ন
+weary:JJ	ক্লান্ত
+whit:NN	ফোঁটা
+whit:NN	বিন্দু
+washerman:NN	ধোপা
+washerman:NN	রজক
+witch:NN	ডাইনী
+witch:NN	যাদুকরী
+yawn:NN	হাই তোলা
+zoroastrian:NN	জোরোয়াস্টার-সম্বনধীয়
+void:NN	শূন্য
+void:NN	বাতিল
+void:NN	অপ্রযোজ্য
+weight:NN	ভার
+weight:NN	বাটখারা
+welfare:NN	কল্যাণ
+welfare:NN	উন্নতি
+welfare:NN	মঙ্গল
+wharfage:NN	জেটি ভাড়া
+xylophone:NN	বাদ্যযন্ত্র বিশেষ
+worship:VV	পূজা করা
+worship:VV	অর্চনা করা
+worship:VV	আরাধনা করা
+vouch:VV	মতামত দেওয়া
+vouch:VV	ভোট দেওয়া
+vouch:VV	জামিন হওয়া
+vouch:VV	সমর্থন করা
+vouch:VV	সাক্ষ্য দেওয়া
+waltz:NN	দুই ব্যক্তির ঘুরে ঘুরে নাচা বা নাচানো
+younker:NN	যুবক
+younker:NN	ছোকরা
+wriggle:NN	মোচড় দেওয়া
+wriggle:NN	অস্বস্তি বোধ করা
+viscous:JJ	চটচটে
+viscous:JJ	আঠালো
+wet-nurse:JJ	যে ধাত্রী শিশুকে মায়ের বদলে স্তন্য দেয়
+wonted:JJ	স্বাভাবিক
+yeoman:NN	জোতদার
+volition:NN	ইচ্ছা
+wake:VV	ঘুম থেকে জাগানো
+wake:VV	জেগে থাকা
+yester:NN	গতকালকের
+yester:NN	গত দিবস
+yell:VV	তীব্র চিৎকার করা
+zeal:NN	আগ্রহ
+voracity:NN	আহারে প্রচন্ড লোভ
+yearn:VV	উৎসুক হওয়া
+yearn:VV	ইচ্ছা করা
+virtual:JJ	ভারচুয়াল
+virtual:JJ	ফলতঃ বটে কিন্তু বাহ্যতঃ নয় এমন
+visiting-card:JJ	নাম ঠিকানা সংবলিত ছোট কার্ড
+wide:JJ	প্রশন্ত
+wide:JJ	চওড়া
+wide:JJ	বিস্তীর্ণ
+wide:JJ	দুরপ্রসারিত
+way-out:JJ	বাহিরে যাইবার পথ
+wayfarer:NN	পথিক
+wayfarer:NN	যাত্রী
+vindicative:JJ	সমর্থনকারী
+yore:PP$	পুরাকাল
+zoology:NN	প্রাণিবিদ্যা
+zoology:NN	প্রাণিতত্ত্ব
+want:NN	অভাব
+want:NN	কমতি
+want:NN	ঘাটতি
+want:NN	অভাব-গ্রস্ত অবস্থা
+wakeful:JJ	জাগ্রৎ
+wakeful:JJ	জাগরুক
+wakeful:JJ	জাগরিত
+wakeful:JJ	সর্তক
+while:IN	সময়
+while:IN	অল্পক্ষণ
+while:IN	কিছু সময়
+waning:JJ	ক্ষীণমাণ
+waning:JJ	কমিয়া আসিতেছে এমন
+yearning:NN	বলবতী ইচ্ছ
+zealous:JJ	অত্যন্ত আগ্রহশীল
+youngest:JJS	সর্বকনিষ্ঠ
+zoo:NN	পশুশালা
+zoo:NN	চিড়িয়াখানা
+wrathful:JJ	ক্রুদ্ধ
+wrathful:JJ	ক্রোধ-প্রকাশক
+yam:NN	মিষ্টি আলু
+whimsical:JJ	খামখেয়ালী
+whimsical:JJ	বাতিকগ্রস্ত
+whet:VV	শান দেওয়া
+whet:VV	ধার দেওয়া
+whet:VV	উত্তেজিত করা
+war:VV	লড়াই
+war:VV	যুদ্ধ
+water:NN	জলাশয়
+water:NN	জলভাগ
+worm:NN	পোকা
+worm:NN	কীট
+worm:NN	কৃমি
+zealot:NN	অতি গোড়া লোক
+warmonger:NN	যুদ্ধ-পিপাসু
+warmonger:NN	যে যুদ্ধে প্ররোচিত করে
+westward:RB	পশ্চিমাভিমুখে
+wax:VV	বৃদ্ধি পাওয়া
+wolf:NN	নেকড়েবাঘ
+winnow:VV	তুষ ঝাড়া
+winnow:VV	পরীক্ষা করা
+yankee:NP	মার্কিন
+yankee:NP	আমেরিকাবাসী
+whilst:IN	যখন
+whilst:IN	যতক্ষণ না
+zither:NN	তারের বাদ্যযন্ত্রবিশেষ
+whale:NN	স্তন্যপায়ী সামুদ্রিক প্রাণী বিশেষ
+zoom:VV	অতিশয় বেগে ও খাড়াভাবে বিমান উপরে উঠানো
+washer:NN	ধৌত করার যন্ত্র
+washer:NN	ধৌতকারক বস্তু
+washer:NN	ওয়াশার
+windlass:NN	চরকি কল
+yellowish:JJ	কিঞ্চিৎ পীত
+wheeze:VV	সাঁসাঁ করে নিঃশ্বাস ফেলা
+whistle:NN	বাঁশি
+whistle:NN	হুইসল
+whistle:NN	শিস
+whistle:NN	হুইসলের শব্দ
+widely:RB	বহুদূর ব্যাপিয়া
+widely:RB	অত্যধিক মাত্রায়
+wretchedness:NN	হীনাবস্থা
+wretchedness:NN	দুর্ভাগ্য
+yellow-fever:NN	পীতজ্বর
+wiseacre:NN	পন্ডিত-মুর্খ
+wee:JJ	পুচকে
+wee:JJ	অতিক্ষুদ্র
+weak:JJ	কোমল
+ye:PP	তোমরা
+ye:PP	আপনারা
+windy:JJ	ঝড়ো
+windy:JJ	বাগাড়ম্বরপূর্ণূ
+windy:JJ	অংহকারী
+wilt:MD	ধূর্ত
+wilt:MD	শঠ
+yea:NN	হ্যাঁ
+vocal:JJ	স্বর-সংক্রান্ত
+vocal:JJ	স্বরযুক্ত
+vocal:JJ	কন্ঠ্য
+wilful:JJ	একগুয়ে
+wilful:JJ	ইচ্ছাকৃত
+ward:NN	প্রহরা
+ward:NN	রক্ষণাবেক্ষন
+visualize:VV	দৃষ্টিগোচর করানো
+visualize:VV	সুস্পষ্টভাবে উদ্ভাসিত করানো
+weasel:NN	নেউল
+weasel:NN	বেজি জাতীয় জন্তু
+vivacious:JJ	জীবন্ত
+vivacious:JJ	প্রাণবন্ত
+vivacious:JJ	প্রাণময়
+vivacious:JJ	উৎফুল্ল
+waif:NN	বেওয়ারিশ মাল
+waif:NN	ভবঘুরে
+waif:NN	পরিত্যক্ত গৃহহীন শিশু
+woebegone:JJ	বিষাদমলিন
+woebegone:JJ	দুঃখজনক
+watt:NN	বিদ্যুৎশক্তির একক বা মান
+womb:NN	গর্ভ
+womb:NN	জরায়ু
+womb:NN	গভীর
+womb:NN	গহ্বর
+whether:IN	যা
+whether:IN	যাহা
+vociferous:JJ	কোলাহলপূর্ণ
+vociferous:JJ	গলাবাজ
+which:WDT	কোনটি
+which:WDT	কোনগুলো
+which:WDT	যেটি
+which:WDT	যেগুলো
+which:WDT	যাহা
+wildly:RB	বন্যভাবে
+wildly:RB	দুর্দান্তভাবে
+waver:VV	তরঙ্গায়িত করা
+waver:VV	ঢেউ খেলানো
+word-play:JJ	বুদ্ধিদীপ্ত তর্কাদি
+vogue:NN	কেতা
+vogue:NN	ফ্যাশন
+vitate:VV	দূষিত করা
+vitate:VV	বাতিল করা
+wallaby:NN	ক্ষুদ্র ক্যাঙ্গারু বিশেষ
+wealthy:JJ	ধনী
+wealthy:JJ	সম্পদশালী
+viz:NN	উদাহরণস্বরূপ
+viz:NN	যথা
+worshipper:NN	পূজারী
+worshipper:NN	ভক্ত
+weft:NN	পড়েন
+weft:NN	কাপড়ের পড়েনের সূতা
+warm:JJ	ঈষদুষ্ণ
+warm:JJ	অল্প গরম
+warm:JJ	আন্তরিক
+witness:NN	প্রমাণ
+witness:NN	সাক্ষ্য
+zion:NP	জেরুজালেমের গিরি
+waffle:NN	বকবক করা
+vital:JJ	জীবন সম্বন্ধীয়
+vital:JJ	সঞ্জীবনী
+vital:JJ	প্রয়োজনীয়
+whinny:NN	হ্রেষাধ্বনি
+weigh:VV	ওজন করা
+weigh:VV	ওজন হওয়া
+weigh:VV	ওজনে সমান হওয়া
+wrappern:NP	আলোয়ান
+wrappern:NP	সংবাদপত্রদির মোড়ক বিশেষ
+zend-avesta:NP	প্রাচীন পারস্যের ধর্মপুস্তক
+zoological:JJ	প্রাণিতত্ত্বসম্বন্ধীয়
+warbler:NN	গায়ক
+warbler:NN	গায়ক পাখি
+virulence:NN	তীব্রতা
+virulence:NN	উগ্রতা
+wonder:NN	বিস্ময়
+wonder:NN	বিস্ময়কর
+wonder:NN	বস্তু
+vitalize:VV	সতেজ করা
+vitalize:VV	প্রাণবন্ত করা
+yarn:NN	বুনা সুতা
+yarn:NN	পাকানো সুতা
+wrath:NN	গভীর ক্রোধ
+wrath:NN	রাগ
+wrath:NN	কোপ
+whither:NN	কোথায়
+whither:NN	যেখানে
+x-rays:NNS	এক্স-রশ্মি
+x-rays:NNS	রঞ্জনরশ্মি
+wage-earmer:JJ	মজুর
+wage-earmer:JJ	যে ব্যক্তি বেতন বা মজুরির বিনিময়ে খাটে
+wage-earmer:JJ	শ্রমিক
+wait:VV	বিলম্ব করা
+whitlow:NN	আঙুল-হাড়া রোগ
+wavelength:NN	তরঙ্গদৈর্ঘ্য
+waste:NN	পতিত
+waste:NN	অকেজো
+waste:NN	আবর্জনা
+war-cloud:JJ	আসন্ন যুদ্ধের আভাস
+war-cloud:JJ	যুদ্ধাশঙ্কা
+wire-work:JJ	তারের জাল
+virile:JJ	পুরুষোচিত
+virile:JJ	বীর্যবান
+wintry:JJ	ঝড়ো
+wintry:JJ	শীতকালীন
+wistfully:RB	সতৃষ্ণভাবে
+young:JJ	অল্পবয়স্ক
+young:JJ	তরুণ
+virus:NN	সংক্রামক রোগের অদৃশ্য জীবানু বিশেষ
+wrestle:VV	কুস্তি করা
+wet:JJ	ভিজা
+wet:JJ	সিক্ত
+whiff:NN	বাতাসের ঝাপটা
+warble:JJ	গলা কাঁপিয়ে গান করা
+welter:VV	ধূলায় গড়াগড়ি দেওয়া
+yeast:NN	গাজলাবিশেষ
+weekday:NN	কার্যদিন
+wistful:JJ	সতৃষ্ণ
+w:NP	ইংরেজি বর্ণমালার ত্রয়োবিংশ অক্ষর
+weather:NN	আবহওয়া
+weather:NN	জলবায়ু
+vindicatory:NN	সমর্থনকারী
+withless:JJ	বুদ্ধিহীন
+withless:JJ	নির্বোধ
+yelk:VV	চিৎকার করা
+yelk:VV	আর্তনাদ করা
+yeomanry:NN	জোতদার সমপ্রাদায়
+vociferate:VV	চিৎকার করা
+vociferate:VV	শোরগোল করা
+vulcanize:VV	তাপ দিয়ে গন্ধকের সাথে সংযুক্ত করা
+viscid:JJ	চটচটে
+viscid:JJ	আঠালো
+waistcoat:NN	ওয়েস্টকোট
+waistcoat:NN	ফতুয়াবিশেষ
+wane:VV	হ্রাস পাওয়া
+wane:VV	ক্রমশ ক্ষীণ হওয়া
+weaving:VVG	বুনন শিল্প
+volatile:JJ	উদ্বায়ী
+volatile:JJ	যাহা দ্রুত উবিয়া যায়
+volatile:JJ	চঞ্চল
+what:WP	কি
+what:WP	কী
+what:WP	যা
+what:WP	যেমন
+vocative:JJ	সম্বোধন পদাত্মক
+waiting-maid:NN	পরিচারিকা
+youngster:NN	বালক
+youngster:NN	ছোকরা
+waiver:NN	স্বত্বত্যাগ
+waiver:NN	দাবি ত্যাগ
+would:MD	হবু
+would:MD	ভাবী
+without:IN	(সীমার বাইরে
+without:IN	বিনা
+without:IN	ছাড়া
+visage:NN	মুখ
+yet:RB	তখনও
+walkie-talkie:NN	বহনসাধ্য বেতার টেলিফোন যন্ত্র
+web-footed:JJ	লিপ্তপাদ
+web-footed:JJ	জোড়া-পা বিশিষ্ট
+zinc:NN	দস্তা
+wield:VV	পরিচালনা করা
+wield:VV	প্রভাব বিস্তার করা
+wretched:JJ	চরম দুর্দশাগ্রস্ত
+wretched:JJ	হতভাগ্য দুঃখজনক
+wantonly:RB	যথেচ্ছাপূর্বক
+wantonly:RB	উদ্দেশ্যহীনভাবে
+would-be:JJ	হবু
+would-be:JJ	ভাবী
+vision:NN	দর্শন
+vision:NN	দৃষ্টিশক্তি
+vision:NN	কল্পনাশক্তি
+zulu:NN	জুলু
+winner:NN	বিজয়ী
+winner:NN	বিজেতা
+winner:NN	প্রতিযোগিতায় জয়ী
+whosoever:WP	যেকেহ
+yolk:NN	ডিম্বের পীতাংশ
+wall:NN	দেওয়াল
+wall:NN	পাঁচিল
+wall:NN	প্রাচীরগাত্র
+voice:VV	মতপ্রকাশ করা
+violin:NN	বেহালা
+worthy:JJ	যোগ্য
+worthy:JJ	উপযুক্ত
+worthy:JJ	মূল্যবান
+y:NP	ইংরেজি বর্ণমালার পঞ্চবিংশ বর্ণ
+zip:NN	বাতাসের মধ্য দিয়ে গুলি ছুটার শব্দের মত শব্দ
+vinous:JJ	মদ্যসম্বন্ধীয়
+vinous:JJ	মদিরাসদৃশ্য
+violent:JJ	তীব্র
+violent:JJ	প্রচন্ড
+violent:JJ	উগ্র
+whisk:VV	দ্রুতবেগে যাওয়া
+weave:VV	বয়ন করা
+weave:VV	বোনা
+warning:NN	বিপদসঙ্গেত
+warning:NN	সাবধানবাণী
+witticism:NN	সরস উক্তি
+witticism:NN	তামাশা
+wart:NN	আঁচিল
+wart:NN	জডুল
+yearlong:JJ	এক বর্ষব্যাপী
+votary:JJ	ব্রতী
+votary:JJ	ভক্ত
+warfare:NN	যুদ্ধবিগ্রহ
+warfare:NN	সংগ্রাম
+warfare:NN	সংগ্রামরত অবস্থা
+yesterday:NN	গত দিবস
+weep:VV	কাঁদা
+weep:VV	চোখের জল ফেলা
+weather-glass:NN	বায়ুমান যন্ত্র
+waste-paper:JJ	বাজে কাগজ
+z:NP	ইংরেজি বর্ণমালার ষড়বিংশ বর্ণ
+warrant:NN	হুকুমনামা
+vow:NN	স্বেচ্চাকৃত অঙ্গীকার
+vow:NN	শপথ
+vow:NN	অঙ্গীকার
+waggish:JJ	রঙ্গপ্রিয়
+waggish:JJ	রহস্য প্রিয়
+winning:JJ	জয়ী
+wheel-chair:JJ	হুইলচেয়ার
+wheel-chair:JJ	অসুস্থ লোকদের বহিরার নিমিত্ত চাকাওয়ালা চেয়ার বিশেষ
+vulgar:JJ	অশিষ্ট
+vulgar:JJ	অভদ্র
+wax-candle:NN	মোমবাতি
+wire:NN	তার
+wire:NN	ধাতুর তার
+wire:NN	টেলিগ্রাম
+younger:JJR	বয়সে ছোট
+younger:JJR	কচি
+warship:NN	রণতরী
+wastage:NN	অপচয়
+wastage:NN	অপব্যয়
+waggery:NN	ভাঁড়ামি
+waggery:NN	ফক্কুড়ি
+worn-out:JJ	ক্লান্ত
+westernmost:JJ	সর্ব-পশ্চিমে অবস্থিত
+visual:JJ	দৃষ্টিগোচর
+visual:JJ	দর্শন সংক্রান্ত
+visual:JJ	চাক্ষুষ
+withstand:VV	বাধা দেওয়া
+withstand:VV	প্রতিরোধ করা
+women:NNS	স্ত্রীলোক
+women:NNS	নারী
+voluble:JJ	বাক্‌পটু
+voluble:JJ	বাচাল
+voluble:JJ	অনর্গল বক্তৃতা দিতে পারে এমন
+wicked:JJ	দুষ্ট
+wicked:JJ	পাপী
+wicked:JJ	নীতিহীন
+wicked:JJ	অনিষ্টকর
+wizard:NN	যাদুকর
+wizard:NN	মায়াবী
+wizard:NN	ঐন্দ্রজালিকা
+wizard:NN	বিস্ময়কর
+wizard:NN	কর্মান্রুষ্ঠাতা
+wood-nymph:JJ	বনপরী
+vocalist:NN	গায়ক
+volley-ball:NN	ভলিবল
+wave:NN	ঢেউ
+wave:NN	প্রবাহ
+yclept:NN	অভিহিত
+vitroil:NN	সালফিউরিক অ্যাসিড
+vitroil:NN	গন্ধক দ্রাবক
+zodiac:NN	রাশিচক্র
+xanthippe:NN	কলপ্রিয়া স্ত্রী
+xanthippe:NN	মুখরা রমনী
+virgo:NN	কন্যারাশি
+wimple:NN	সন্ন্যাসিনীর ঘোমটাবিশেষ
+wicker-work:JJ	কঞ্চি দ্বারা নির্মিত দ্রব্য
+wilness:NN	শঠতা
+wilness:NN	কপটতা
+yard-stick:NN	গজকাঠি
+vocabulary:NN	শব্দকোষ
+vocabulary:NN	অভিধান
+weariness:NN	ক্লান্তি
+weariness:NN	অবসাদ
+woo:VV	প্রেমপ্রার্থনা করা
+woo:VV	বিবাহের প্রস্তাব করা
+woo:VV	লাভ করিতে চেষ্টা করা
+xenon:NN	গ্যাসবিশেষ
+wail:NN	আর্তনাদ
+wail:NN	বিলাপ
+whiskey:NN	হুইস্কি
+whiskey:NN	উগ্র মদ্যবিশেষ
+warmth:NN	উষ্ণতা
+warmth:NN	মৃদুতাপ
+warmth:NN	আন্তরিকতা
+vivisection:NN	জীবন্ত প্রাণীর অঙ্গব্যবচ্ছেদ
+viper:NN	একজাতীয় বিষধর সাপ
+year-book:JJ	বর্ষপঞ্জী
+voluptuous:JJ	ভোগবিলাসী
+voluptuous:JJ	ইন্দ্রিয় সুখবর্ধক

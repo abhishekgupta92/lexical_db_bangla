@@ -1,0 +1,154 @@
+profitable:JJ	লাভজনক
+goods:NN	সামগ্রী
+offices:NNS	দপ্তব়
+chloride:NN	ক্লোরাইড
+known.as:NN	পরিচিত
+salinity:NN	লবণতা
+sodium:NN	সোডিয়াম
+acquiescence:NN	মৌনসম্মতি
+project.manager:NN	প্রকল্প ম্যানেজার
+boon:JJ	অনুগ্রহ
+sixty:CD	ষাট
+citywide:JJ	নগরব্যপী
+fines:NNS	জরিমানা
+asshole:NN	চরম গর্দভ
+ostentation:NN	জাঁকজমক
+report:VV	অভিযোগ করা
+useless:JJ	অর্থহীন
+clog:VV	অবরোধ করা
+avidly:RB	লুব্ধভাবে
+conjugal:JJ	দাম্পত্য
+certification:NN	সত্যতা অনুমোদন
+certification:NN	প্রমানীকরন
+preservative:JJ	সংরক্ষক
+condiment:NN	স্বাদবর্ধক
+production:NN	উৎপাদন
+coalition:NN	জোট
+pulp:NN	মন্ড
+seawater:NN	সমুদ্রের জল
+soaps:NNS	সাবান
+detergent:NN	ডিটার্জেন্ট
+evaporation:NN	বাষ্পীভবন
+fabric:NN	কাপড়
+redundant:JJ	প্রয়োজনের অতিরিক্ত
+fennel:NN	মৌরী
+information:NN	অর্থবহ তথ্য
+chicly:RB	সৌনাভ
+open university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+open.university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+females:NNS	মেয়ে
+high.standard:NN	উচ্চ মান
+bedrooms:NNS	শোবার ঘর
+males:NNS	ছেলে
+standard:JJ	মান
+appliances:NNS	সরঞ্জামাদি
+restrict:VV	নিয়ন্ত্রণ করা
+rooms:NNS	ঘর
+fridge:NN	ফ্রিজ
+candidates:NNS	আবেদনকারী
+appliance:NN	সরঞ্জাম
+organised:VV	আয়োজিত
+maximum:NN	সর্বোচ্চ
+micro-oven:NN	মাইক্রো ওভেন
+poor:JJ	গরীব
+solidarity:NN	সংহতি
+quelling:NN	দমনকরা
+thorn:NN	কাঁটা
+thorn:NN	কন্টক
+lousy:JJ	উকুনময়
+banned:JJ	নিষিদ্ধ
+non-controversial:JJ	অবিতর্কিত
+cleanup:NN	পরিষ্করণ
+housekeeping:NN	গৃহপরিচর্যা
+routine:JJ	স্বাভাবিক
+non-existent:JJ	অবিদ্যমান
+lapsed:JJ	বাতিল
+grinding:NN	চূর্ণ করা
+target:NN	লক্ষ্য স্থির করা
+condom:NN	কন্ডোম
+perforated:JJ	ছিদ্র যুক্ত
+leisure:NN	অবকাশ
+twisting:NN	পাকানো
+professional:NN	পেশাজীবি
+suitability:NN	উপযোগিতা
+conversely:RB	বিপরীতভাবে
+saunf:NN	মৌরি
+silver:NN	রজত
+credibility:NN	বিশ্বাসযোগ্যতা
+agility:NN	তৎপরতা
+notable.award:NN	উল্লেখযোগ্য পূরস্কার
+field:NN	ক্ষেত্র
+specific.field:NN	নির্দিষ্ট ক্ষেত্র
+recognized:JJ	পরিচিত
+enduring:JJ	স্থায়ী
+collectively:RB	সামগ্রিকভাবে
+convenience:NN	সুবিধা
+scholars:NNS	পন্ডিত
+championships:NN	চ্যাম্পিয়নশিপ
+olympic.games:NP	অলিম্পিক গেমস
+amateur:NN	অপেশাদার
+standing:NN	অবস্থান
+non-league.sport:NN	নন-লিগ স্পোর্ট
+cite:VV	উদ্ধৃতি দেওয়া
+technique:NN	কৌশল
+periodical:NN	পর্যায়ক্রমিক
+feature-length.film:NN	পূর্ণদৈর্ঘ্য চলচ্চিত্র
+personalities:NNS	ব্যক্তিত্ব
+personality:NN	ব্যক্তিত্ব
+innovative:JJ	প্রবর্তক
+large:JJ	অনেক
+mercy:NN	মাফ দেওয়া
+underage:JJ	অপ্রাপ্তবয়স্ক
+adroitness:NN	দক্ষতা
+verandah:NN	বারান্দা
+rupee:NN	রুপি
+sliver:NN	রূপা
+intonation:NN	কথা বলার সময় কন্ঠস্বরের ওজনের উত্থান-পতন
+intonation:NN	স্বরভেদ
+halcyon:NN	মাছরাঙা
+doctor:NN	ডাক্তার
+doctor:NN	চিকিৎসক
+guidelines:NNS	নীতি নির্দেশাবলী
+indication:NN	ইঙ্গিত
+HSDPA:NN	এইচএসডিপিএ
+landing:NN	অবতরন করা
+wedlock:NN	বিবাহ বন্ধন
+HDD:NN	হার্ডডিস্ক
+later:JJ	পরে
+mutual.respect:NN	পারস্পরিক শ্রদ্ধা
+mutual:JJ	পারস্পরিক
+abdurrahman:NP	আব্দুর রহ্‌মান
+climate.change:NN	জলবায়ু পরিবর্তন
+promise:NN	প্রতিজ্ঞা
+biblical:JJ	বাইবেলিয়
+abraham:NP	আব্রাহাম
+tania:NP	তানিয়া
+pillar:NN	থাম
+pillar:NN	অবলম্বন
+failure:NN	অকৃতকার্যতা
+fain:RB	সানন্দে
+faint:JJ	ক্ষীণ
+faint:JJ	নিস্তেজ
+aback:RB	বিস্মিত
+aback:RB	আশ্চার্যান্বিত
+abaddon:NN	নরক
+abashed:JJ	হতভম্ব
+abashed:JJ	অপ্রতিভ
+abject:JJ	হীন
+metabolic:JJ	বিপাকীয়
+objection:NN	আপত্তি
+acts:NNS	আইন
+al-karim:NP	আল কারীম
+lightsome:JJ	আলোকিত
+ethic:NN	নীতিশাস্ত্র
+office:NN	দপ্তর
+judges:NNS	বিচারপতি
+political.office:NN	রাজনৈতিক দপ্তর
+sub-national:JJ	উপ-জাতীয়
+first-level:JJ	প্রথম স্তর
+citywide:JJ	শহর ব্যাপি
+political.figures:NNS	রাজনৈতিক ব্যক্তিত্ব
+speaking:NN	বলা হয়
+spouse:NN	স্বামী বা স্ত্রী
+confer:VV	খেতাব প্রদান করা
+uncontroversial.deletion:NN	অবিতর্কিত অপসারণ

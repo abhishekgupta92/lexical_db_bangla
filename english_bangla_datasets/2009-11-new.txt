@@ -1,0 +1,10 @@
+websites:NNS	ওয়েবসাইট
+midlevel:JJ	মাঝারি
+reactivation:NN	পুনঃচালুকরণ
+nine:CD	নয়
+cancellation:NN	বাতিলকরণ
+registrar:NN	রেজিস্ট্রার
+registrant:NN	নিবন্ধনকারী
+patient:NN	ধৈর্য্যধারণকারী
+ebook:NN	ইলেক্ট্রনিক বই
+adventures:NNS	অভিযান

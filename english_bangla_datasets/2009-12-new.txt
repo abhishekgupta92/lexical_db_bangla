@@ -1,0 +1,3 @@
+juices:NNS	রস
+outlawed:JJ	সমাজ থেকে বহিষ্কৃত
+typical:JJ	প্রতিরুপ

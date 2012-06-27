@@ -60,30 +60,38 @@ print "Parsed the Bilingual dictionary into two dictionary structures"
 
 #For all Bangla words in bangla to english dictionary
 for i,bn_word in enumerate(bangla_eng_dictionary.keys()):
-        bn_syns=[]
-        
-        #Find corresponding English Word
-        (pos_tag,en_word)=bangla_eng_dictionary[bn_word]
+		bn_syns=[]
+		
+		#Find corresponding English Word
+		(pos_tag,en_word)=bangla_eng_dictionary[bn_word]
 
-        #Find synyonyms in English
-        syns=[l.name for s in wordnet.synsets(en_word) for l in s.lemmas]
-        #Wordnet.synset(en_word+".n.01").lemma_names
+		#Find synyonyms in English
+		syns1=[l.name for s in wordnet.synsets(en_word) for l in s.lemmas]
+		
+		#Remove the duplicates, and the key itself.
+		syns=list(set(syns1))
+		try:
+			syns.remove(en_word)
+		except:
+			pass
+			
+		#Wordnet.synset(en_word+".n.01").lemma_names
 
-        #Find Bangla Equivalent of the synonyms from the dictionary
-        for s in syns:
-                try:
-                        bword=eng_bangla_dictionary[s]
-						#^^ returns a tuple (pos_tag,bn_word)
-                        bn_syns.append(bword[1])
-                except:
-                        pass
+		#Find Bangla Equivalent of the synonyms from the dictionary
+		for s in syns:
+			try:
+				bword=eng_bangla_dictionary[s]
+				#^^ returns a tuple (pos_tag,bn_word)
+				bn_syns.append(bword[1])
+			except:
+				pass
 
-        #key=bn_word
-        #value=bn_syns
-
-        bangla_dict[bn_word]=bn_syns
-        #if i>20:
-        #        break
+		#key=bn_word
+		#value=bn_syns
+		if bn_syns != []:
+			bangla_dict[bn_word]=bn_syns
+		#if i>20:
+		#		break
 
 print "Prepared the dictionary."
 print "Number of words in the dictionary are",len(bangla_dict.keys())
@@ -92,12 +100,10 @@ fwrite=open(fileDict,'w')
 lines=[]
 for key in bangla_dict.keys():
 	syns=bangla_dict[key]
+	
 	if not syns:
 		continue
-	#SYNS is an array
-	#value=""
-	#for t in syns:
-	#	value=value+"t"+","	
+
 	syns=map(lambda s:s.encode('utf-8'),syns)
 	value=",".join(syns)
 	lines.append(str(key.encode('utf-8'))+";"+value+"\n")

@@ -1,0 +1,23 @@
+fileDict="bangla_dicts/bangla.dict"
+
+def parser(fileName):
+	fread=open(fileName)
+	lines=fread.readlines()
+	fread.close()
+	
+	bangla_dict={}
+
+	for line in lines:
+		key=line.split(';')[0]
+		value=line.split(';')[1].split(",")
+		bangla_dict[key]=value
+	
+	return bangla_dict
+	
+bangla_dict=parser(fileDict)
+
+def syns(word):
+        try:
+        	return bangla_dict[word]
+        except KeyError:
+                return None

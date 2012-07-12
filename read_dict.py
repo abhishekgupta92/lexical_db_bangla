@@ -1,19 +1,19 @@
 from xml.dom.minidom import parse
 from nltk.corpus import wordnet
 
-#parse ankur-abhidhan.xml
 fileName="english_bangla_datasets/ankur-abhidhan.xml"
 fileDict="bangla_dicts/bangla.dict"
 
-debugMode=True
-
+#Initialize empty repositories
 bangla_dict={}
 eng_bangla_dictionary={}
 bangla_eng_dictionary={}
 
+
+#parse ankur-abhidhan.xml to get the english to bangla dictionary
+#dictionary => (key => array of synonyms)
 dom=parse(fileName)
 print "Parsed the XML file"
-
 rows=dom.getElementsByTagName("row")
 
 #Parse the xml into the dictionary eng_bangla_dictionary structure, which will be used later.
@@ -96,6 +96,7 @@ for i,bn_word in enumerate(bangla_eng_dictionary.keys()):
 print "Prepared the dictionary."
 print "Number of words in the dictionary are",len(bangla_dict.keys())
 
+#Dump the bangla to bangla dictionary
 fwrite=open(fileDict,'w')
 lines=[]
 for key in bangla_dict.keys():
